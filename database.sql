@@ -11,7 +11,7 @@ SELECT * FROM input_data;
 INSERT INTO input_data (first_name,
 last_name,
 email)
-VALUES ('John','krishan','gopal@test.com');
+VALUES ('John','krishan','gopal1@test.com');
 
 --psql -U api_user
 --\c form_api
